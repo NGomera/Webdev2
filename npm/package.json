@@ -1,0 +1,22 @@
+{
+  "name": "@gomera/npm",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "how-to-npm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NGomera/Webdev2.git"
+  },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "description": "Few words in it."
+}
